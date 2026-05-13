@@ -165,7 +165,7 @@ function App() {
 
       <main id="main" className="overflow-hidden">
         <section id="home" className="scroll-mt-24">
-          <div className="mx-auto grid max-w-7xl gap-16 px-4 py-20 sm:px-6 lg:grid-cols-[1.15fr_0.85fr] lg:px-8 lg:py-28">
+          <div className="mx-auto grid max-w-7xl gap-16 px-4 py-20 sm:px-6 lg:grid-cols-[1.15fr_0.85fr] lg:px-8 lg:py-5">
             <div className="flex flex-col justify-center">
               <p className="text-sm font-medium uppercase tracking-[0.3em] text-zinc-500 dark:text-zinc-400">
                 Premium business software for growing stores
@@ -346,13 +346,13 @@ function App() {
               </div>
               <div className="flex flex-col gap-3 sm:flex-row lg:justify-end">
                 <a
-                  href="https://wa.me/0000000000"
+                  href="https://wa.me/+923296343264"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3.5 text-sm font-medium text-zinc-950 transition-colors hover:bg-zinc-200"
                 >
                   WhatsApp Us
                 </a>
                 <a
-                  href="mailto:hello@stockbridge.com"
+                  href="mailto:infostock@gmail.com"
                   className="inline-flex items-center justify-center rounded-full border border-zinc-700 px-6 py-3.5 text-sm font-medium text-white transition-colors hover:border-zinc-500 hover:bg-zinc-900"
                 >
                   Email Consultation
@@ -391,9 +391,9 @@ function Footer() {
           </p>
         </div>
         <div className="grid gap-3 text-sm text-zinc-600 dark:text-zinc-300 sm:grid-cols-2">
-          <FooterItem label="Phone" value="+00 000 000 0000" />
-          <FooterItem label="Email" value="hello@stockbridge.com" />
-          <FooterItem label="WhatsApp" value="wa.me/0000000000" />
+          <FooterItem label="Phone" value="+92 329 634 3264" />
+          <FooterItem label="Email" value="infostock@gmail.com" />
+          <FooterItem label="WhatsApp" value="wa.me/+923296343264" />
           <FooterItem label="Domain" value="stockbridge.com" />
         </div>
       </div>
